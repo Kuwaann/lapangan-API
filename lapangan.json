@@ -1,225 +1,112 @@
-{
-  "status": "success",
-  "data": [
-    {
-      "id": "YGK001",
-      "nama_tempat": "Tifosi Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 4.5,
-      "harga": 80000,
-      "lat": -7.8000,
-      "lon": 110.3700,
-      "image_url": ""
-    },
-    {
-      "id": "YGK002",
-      "nama_tempat": "MU Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 4.4,
-      "harga": 85000,
-      "lat": -7.7740,
-      "lon": 110.3690,
-      "image_url": ""
-    },
-    {
-      "id": "YGK003",
-      "nama_tempat": "Jogokaryan Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Mantrijeron, Kota Yogyakarta",
-      "rating": 4.3,
-      "harga": 90000,
-      "lat": -7.8050,
-      "lon": 110.3660,
-      "image_url": ""
-    },
-    {
-      "id": "YGK004",
-      "nama_tempat": "Bardosono Happy Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Umbulharjo, Kota Yogyakarta",
-      "rating": 4.2,
-      "harga": 70000,
-      "lat": -7.7890,
-      "lon": 110.3750,
-      "image_url": ""
-    },
-    {
-      "id": "YGK005",
-      "nama_tempat": "Galaxy Futsal",
-      "jenis_lapangan": "Futsal Indoor/Turnamen",
-      "wilayah": "Banguntapan, Bantul",
-      "rating": 4.3,
-      "harga": 100000,
-      "lat": -7.8890,
-      "lon": 110.3950,
-      "image_url": ""
-    },
-    {
-      "id": "YGK006",
-      "nama_tempat": "Golden Goal Futsal",
-      "jenis_lapangan": "Futsal Indoor/Outdoor",
-      "wilayah": "Mlati, Sleman",
-      "rating": 4.4,
-      "harga": 70000,
-      "lat": -7.7320,
-      "lon": 110.3810,
-      "image_url": ""
-    },
-    {
-      "id": "YGK007",
-      "nama_tempat": "Gelora Futsal",
-      "jenis_lapangan": "Futsal Outdoor/Vinyl",
-      "wilayah": "Ngemplak, Sleman",
-      "rating": 4.1,
-      "harga": 65000,
-      "lat": -7.6180,
-      "lon": 110.3500,
-      "image_url": ""
-    },
-    {
-      "id": "YGK008",
-      "nama_tempat": "Telaga Futsal (Seturan)",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Depok, Sleman",
-      "rating": 4.0,
-      "harga": 90000,
-      "lat": -7.7750,
-      "lon": 110.3750,
-      "image_url": ""
-    },
-    {
-      "id": "YGK009",
-      "nama_tempat": "Pelle Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Babarsari, Sleman",
-      "rating": 4.2,
-      "harga": 110000,
-      "lat": -7.7780,
-      "lon": 110.3860,
-      "image_url": ""
-    },
-    {
-      "id": "YGK010",
-      "nama_tempat": "Spirit Futsal Arena",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kulon Progo",
-      "rating": 4.1,
-      "harga": 80000,
-      "lat": -7.8200,
-      "lon": 110.2000,
-      "image_url": ""
-    },
-    {
-      "id": "YGK011",
-      "nama_tempat": "Kick Off Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Wonosari, Gunung Kidul",
-      "rating": 4.0,
-      "harga": 110000,
-      "lat": -7.8840,
-      "lon": 110.6060,
-      "image_url": ""
-    },
-    {
-      "id": "YGK012",
-      "nama_tempat": "Next Futsal 1",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 3.9,
-      "harga": 75000,
-      "lat": -7.7850,
-      "lon": 110.3670,
-      "image_url": ""
-    },
-    {
-      "id": "YGK013",
-      "nama_tempat": "SUKA Sport Centre – Lapangan Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Depok, Sleman",
-      "rating": 4.0,
-      "harga": 60000,
-      "lat": -7.7550,
-      "lon": 110.3830,
-      "image_url": ""
-    },
-    {
-      "id": "YGK014",
-      "nama_tempat": "DMT Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kasihan, Bantul",
-      "rating": 4.1,
-      "harga": 90000,
-      "lat": -7.9020,
-      "lon": 110.3620,
-      "image_url": ""
-    },
-    {
-      "id": "YGK015",
-      "nama_tempat": "Forza Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Caturtunggal, Sleman",
-      "rating": 4.2,
-      "harga": 100000,
-      "lat": -7.7590,
-      "lon": 110.3740,
-      "image_url": ""
-    },
-    {
-      "id": "YGK016",
-      "nama_tempat": "The Reds Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Sleman",
-      "rating": 4.0,
-      "harga": 95000,
-      "lat": -7.8000,
-      "lon": 110.3600,
-      "image_url": ""
-    },
-    {
-      "id": "YGK017",
-      "nama_tempat": "Paragon Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Gamping, Sleman",
-      "rating": 4.1,
-      "harga": 110000,
-      "lat": -7.8450,
-      "lon": 110.3450,
-      "image_url": ""
-    },
-    {
-      "id": "YGK018",
-      "nama_tempat": "Neo Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 3.9,
-      "harga": 80000,
-      "lat": -7.7900,
-      "lon": 110.3700,
-      "image_url": ""
-    },
-    {
-      "id": "YGK019",
-      "nama_tempat": "Liquid Futsal",
-      "jenis_lapangan": "Futsal Outdoor/Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 4.0,
-      "harga": 100000,
-      "lat": -7.8100,
-      "lon": 110.3500,
-      "image_url": ""
-    },
-    {
-      "id": "YGK020",
-      "nama_tempat": "Jogja Land Futsal",
-      "jenis_lapangan": "Futsal Indoor",
-      "wilayah": "Kota Yogyakarta",
-      "rating": 3.8,
-      "harga": 85000,
-      "lat": -7.7900,
-      "lon": 110.3630,
-      "image_url": ""
-    }
-  ]
-}
+[
+  {
+    "id": "YGK001",
+    "nama_tempat": "Tifosi Futsal",
+    "jenis_lapangan": "Futsal Indoor",
+    "wilayah": "Kota Yogyakarta",
+    "rating": 4.5,
+    "harga": 80000,
+    "lat": -7.8000,
+    "lon": 110.3600,
+    "image_url": "https://yogyaku.com/wp-content/uploads/2024/12/Tifosi-Futsal-yang-populer-di-Jogja.jpg"
+  },
+  {
+    "id": "YGK002",
+    "nama_tempat": "MU Futsal",
+    "jenis_lapangan": "Futsal Indoor",
+    "wilayah": "Sleman",
+    "rating": 4.3,
+    "harga": 75000,
+    "lat": -7.7300,
+    "lon": 110.4000,
+    "image_url": "https://yogyaku.com/wp-content/uploads/2024/12/MU-Futsal-yang-mudah-dijangkau.jpg"
+  },
+  {
+    "id": "YGK003",
+    "nama_tempat": "Planet Futsal",
+    "jenis_lapangan": "Futsal Semi Indoor",
+    "wilayah": "Bantul",
+    "rating": 4.4,
+    "harga": 70000,
+    "lat": -7.8900,
+    "lon": 110.3400,
+    "image_url": "https://images.unsplash.com/photo-1627916298642-f8c79294f9d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80"
+  },
+  {
+    "id": "YGK004",
+    "nama_tempat": "Sultan Futsal",
+    "jenis_lapangan": "Futsal Outdoor",
+    "wilayah": "Gunungkidul",
+    "rating": 4.2,
+    "harga": 65000,
+    "lat": -7.9600,
+    "lon": 110.6200,
+    "image_url": "https://images.unsplash.com/photo-1549477002-39ffdd76118d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80"
+  },
+  {
+    "id": "YGK005",
+    "nama_tempat": "Jogja Arena",
+    "jenis_lapangan": "Futsal Indoor",
+    "wilayah": "Kulon Progo",
+    "rating": 4.6,
+    "harga": 85000,
+    "lat": -7.8200,
+    "lon": 110.1500,
+    "image_url": "https://cloud.jpnn.com/photo/jatim/news/normal/2023/02/25/salah-satu-lapangan-futsal-di-daerah-istimewa-yogyakarta-fot-3zsg.jpg"
+  },
+  {
+    "id": "YGK006",
+    "nama_tempat": "Gadjah Mada Sport Center",
+    "jenis_lapangan": "Futsal Indoor Premium",
+    "wilayah": "Kota Yogyakarta",
+    "rating": 4.8,
+    "harga": 95000,
+    "lat": -7.7700,
+    "lon": 110.3770,
+    "image_url": "https://static.promediateknologi.id/crop/0x0%3A0x0/750x500/webp/photo/p1/995/2025/06/10/images-2025-06-10T133651523-993950803.jpg"
+  },
+  {
+    "id": "YGK007",
+    "nama_tempat": "Galaxy Sport",
+    "jenis_lapangan": "Futsal Semi Indoor",
+    "wilayah": "Sleman",
+    "rating": 4.4,
+    "harga": 72000,
+    "lat": -7.7500,
+    "lon": 110.3900,
+    "image_url": "https://images.unsplash.com/photo-1607513361466-281ce1d3c0a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80"
+  },
+  {
+    "id": "YGK008",
+    "nama_tempat": "Bantul Soccer Hall",
+    "jenis_lapangan": "Futsal Indoor",
+    "wilayah": "Bantul",
+    "rating": 4.3,
+    "harga": 78000,
+    "lat": -7.8900,
+    "lon": 110.3400,
+    "image_url": "https://sma3jogja.sch.id/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-06-at-15.19.59-1-600x450.jpeg"
+  },
+  {
+    "id": "YGK009",
+    "nama_tempat": "Pandawa Arena",
+    "jenis_lapangan": "Futsal Outdoor",
+    "wilayah": "Kulon Progo",
+    "rating": 4.1,
+    "harga": 60000,
+    "lat": -7.8400,
+    "lon": 110.1700,
+    "image_url": "https://bangsaonline.com/images/uploads/berita/700/cd70aff3e407e641c0533852b348419e.jpg"
+  },
+  {
+    "id": "YGK010",
+    "nama_tempat": "Satria Futsal",
+    "jenis_lapangan": "Futsal Indoor",
+    "wilayah": "Gunungkidul",
+    "rating": 4.5,
+    "harga": 82000,
+    "lat": -7.9600,
+    "lon": 110.6200,
+    "image_url": "https://images.unsplash.com/photo-1609859679178-3ef7b1a5d2f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80"
+  }
+]
